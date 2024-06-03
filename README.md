@@ -50,4 +50,4 @@ Each review has:
 
 
 ## **Results**
- The model uses random forest regressors to predict the probability of an object being returned for a specific reason.  Because the given reviews are in Uzbek and need to be translated into English to assess their mood (positive or negative), not all data could be translated for complete training. Thus, the performance of the model is very humble - around 60%.
+ The model uses random forest regressors to predict the probability of an object being returned for a specific reason.  Because the given reviews are in Uzbek and need to be translated into English to assess their sentiment, not all data could be translated for complete training. Thus, the performance of the model is very humble - around 60%.
